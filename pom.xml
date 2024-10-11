@@ -43,7 +43,7 @@
     </dependency>
 
     <dependency>
-      <groupId>org.hibernate</groupId>
+      <groupId>org.hibernate.orm</groupId>
       <artifactId>hibernate-core</artifactId>
       <version>6.1.6.Final</version>
     </dependency>
@@ -81,7 +81,7 @@
   </dependencies>
 
   <build>
-    <finalName>com.com.com.com.com.com.javarush.crud_on_springmvc.kazanli</finalName>
+    <finalName>root</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
